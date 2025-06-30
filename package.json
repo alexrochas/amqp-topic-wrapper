@@ -7,7 +7,7 @@
     "watch-test": "nodemon --exec 'npm test'"
   },
   "dependencies": {
-    "amqplib": "^0.5.1",
+    "amqplib": "^0.10.8",
     "bluebird": "^3.5.0",
     "caller-id": "^0.1.0",
     "cucumber": "^2.3.1",
